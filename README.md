@@ -11,17 +11,17 @@ Jednostavna CRUD aplikacija za upravljanje korisnicima. Aplikacija je napravljen
 /client  <- React frontend
 /server  <- Express backend
 
-🚀 Pokretanje projekta lokalno
+🚀 Pokretanje projekta lokalno:
   1. Kloniraj repozitorijum
   git clone https://github.com/AndrijasMafijas/user-menagment-app
   cd user-management-app
 
-2. Pokreni backend
+2. Pokreni backend:
   cd server
   npm install
   node index.js
 
-3. Pokreni frontend
+3. Pokreni frontend:
   cd ../client
   npm install
   npm start
