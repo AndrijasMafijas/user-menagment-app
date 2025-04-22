@@ -13,7 +13,7 @@ Jednostavna CRUD aplikacija za upravljanje korisnicima. Aplikacija je napravljen
 
 🚀 Pokretanje projekta lokalno
   1. Kloniraj repozitorijum
-  git clone https://github.com/AndrijasMafijas/user-management-app.git
+  git clone https://github.com/AndrijasMafijas/user-menagment-app
   cd user-management-app
 
 2. Pokreni backend
